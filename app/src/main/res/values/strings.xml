@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InstagramKotlin</string>
+    <string name="enter_e_mail">Enter E-mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="comment">comment</string>
+    <string name="post">POST</string>
+    <string name="upload">upload</string>
+    <string name="add_post">Add Post</string>
+    <string name="cikis">Çıkış</string>
+</resources>
